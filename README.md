@@ -2,8 +2,8 @@
 
 💻 System Administrator @ **TCS** (1.3+ years)  
 🔒 Experienced with **vSphere | CyberArk | SolarWinds | IBM iSeries (AS/400)**  
-🐧 Currently **learning Linux** & building automation skills  
-☁️ Certified **Microsoft Azure AI Fundamentals**  
+☁️ Cloud & AI Enthusiast — Certified **Microsoft Azure AI Fundamentals (AI-900)**  
+🤖 Exploring **Machine Learning & Python projects**  
 
 ---
 
@@ -11,35 +11,37 @@
 - **Systems & Virtualization:** vSphere, IBM iSeries / AS/400  
 - **Security & Access:** CyberArk  
 - **Monitoring & Infrastructure:** SolarWinds  
-- **Cloud & AI:** Microsoft Azure (Fundamentals certified)  
-- **Scripting & Automation (learning):** Bash, Linux administration  
+- **Cloud & AI:** Microsoft Azure (AI-900 certified), Google Colab  
+- **Programming:** Python (ML/Colab, Data Analysis), PHP (Web Development basics)  
 
 ---
 
 ## 📚 What I’m Working On  
-- 📖 Documenting my **Linux learning journey** (notes, configs, troubleshooting)  
-- ⚙️ Creating **Bash scripts** for sysadmin tasks (backups, monitoring, automation)  
-- 🐳 Exploring **DevOps tools**: Git, Docker, Ansible  
+- ⚙️ Building automation scripts & experimenting with **infrastructure projects**  
+- 🛒 Developing a **Grocery Store Web Application** (PHP + MySQL full-stack project)  
+- 🤖 Creating **Machine Learning projects** with Python & Colab (classification, data analysis)  
+- ☁️ Expanding knowledge in **Cloud computing & AI services**  
 
 ---
 
 ## 🎯 Goals  
-- Grow into a **Linux / Cloud System Administrator** with strong automation expertise  
-- Contribute to **open-source sysadmin & DevOps projects**  
-- Expand into **monitoring, logging, and infrastructure automation (IaC)**  
+- Grow into a **Cloud & AI-focused System Administrator**  
+- Contribute to **open-source Cloud, AI, and SysAdmin projects**  
+- Strengthen expertise in **Azure, automation, and applied ML**  
 
 ---
 
 ## 🏅 Certifications  
-- ✅ Microsoft Certified: **Azure AI Fundamentals**  
-*(More on the way: Linux, Cloud & DevOps certifications)*  
+- ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)**  
+*(More Cloud & AI certifications coming soon)*  
 
 ---
 
-## 📌 Future Projects on This Profile  
-- 🐧 `linux-labs` → My practice notes, commands, and Linux configs  
-- ⚙️ `sysadmin-scripts` → Utility Bash scripts (log cleanup, disk usage, monitoring)  
+## 📌 Featured Projects  
+- ⚙️ `sysadmin-scripts` → Utility scripts for monitoring & automation  
 - 🔐 `monitoring-setup` → Sample monitoring stack (Nagios, ELK, Prometheus)  
+- 🛒 `grocery-store` → Grocery store web app (PHP + MySQL + Admin panel)  
+- 🤖 `ml-projects` → Machine learning experiments in Python (Colab notebooks)  
 
 ---
 

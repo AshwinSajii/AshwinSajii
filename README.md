@@ -11,7 +11,7 @@
 - **Systems & Virtualization:** vSphere, IBM iSeries / AS/400  
 - **Security & Access:** CyberArk  
 - **Monitoring & Infrastructure:** SolarWinds  
-- **Cloud & AI:** Microsoft Azure (AI-900 certified), Google Colab  
+- **Cloud & AI:** Microsoft Azure (AI-900 certified/ Excel Associate 2019), Google Colab  
 - **Programming:** Python (ML/Colab, Data Analysis), PHP (Web Development basics)  
 
 ---
@@ -33,13 +33,13 @@
 
 ## 🏅 Certifications  
 - ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)**  
+- ✅ Microsoft Certified: **Office Specialist: Excel Associate(Excel and Excel 2019)**
+- ✅ Udemy Certified: **Cloud Computing Fundamentals**
 *(More Cloud & AI certifications coming soon)*  
 
 ---
 
 ## 📌 Featured Projects  
-- ⚙️ `sysadmin-scripts` → Utility scripts for monitoring & automation  
-- 🔐 `monitoring-setup` → Sample monitoring stack (Nagios, ELK, Prometheus)  
 - 🛒 `grocery-store` → Grocery store web app (PHP + MySQL + Admin panel)  
 - 🤖 `ml-projects` → Machine learning experiments in Python (Colab notebooks)  
 

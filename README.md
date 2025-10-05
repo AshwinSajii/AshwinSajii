@@ -73,7 +73,9 @@ Contribute to open-source SysAdmin and Cloud projects
 
 ---
 
-📫 Let’s Connect
+ 📫 Let’s Connect  
+[![GitHub](https://img.shields.io/badge/GitHub-ashwinsajii-181717?style=for-the-badge&logo=github)](https://github.com/ashwinsajii)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashwinsajii)
 
 
 

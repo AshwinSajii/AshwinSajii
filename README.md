@@ -56,7 +56,7 @@
 ## 📌 Featured Projects  
 
 - 🛒 [`grocery-store`](https://github.com/ashwinsajii/grocery-store) → Grocery store web app (PHP + MySQL + Admin panel)  
-- 🤖 [`ml-projects`](https://github.com/ashwinsajii/ml-projects) → Machine learning experiments (Python, Colab notebooks)
+- 🤖 [`ml-projects`](https://github.com/AshwinSajii/traffic-situation-detection) → Machine learning experiments (Python, Colab notebooks)
 
 ---
 

@@ -1,6 +1,6 @@
 👋 Hi, I’m Ashwin Saji
 
-💻 Aspiring Linux System Administrator | IT Infrastructure Associate @ TCS (1.3+ years)
+💻 Aspiring Linux System Administrator | System Administrator @ TCS (1.3+ years)
 🐧 Building hands-on expertise in Linux administration, shell scripting, and server automation
 ☁️ Cloud & AI Enthusiast — Certified Microsoft Azure AI Fundamentals (AI-900)
 🤖 Exploring Python, automation, and machine learning projects

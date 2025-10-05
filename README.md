@@ -1,66 +1,80 @@
-# 👋 Hi, I’m Ashwin Saji  
+👋 Hi, I’m Ashwin Saji
 
-💻 **System Administrator @ TCS** (1.3+ years)  
-🔒 Experienced with **vSphere | CyberArk | SolarWinds | IBM iSeries (AS/400)**  
-☁️ Cloud & AI Enthusiast — Certified **Microsoft Azure AI Fundamentals (AI-900)**  
-🐧 Learning **Linux & Shell Scripting** — building automation scripts and exploring system-level tasks  
-🤖 Exploring **Machine Learning & Python projects**
+💻 Aspiring Linux System Administrator | IT Infrastructure Associate @ TCS (1.3+ years)
+🐧 Building hands-on expertise in Linux administration, shell scripting, and server automation
+☁️ Cloud & AI Enthusiast — Certified Microsoft Azure AI Fundamentals (AI-900)
+🤖 Exploring Python, automation, and machine learning projects
 
----
-
-## 🔧 Skills & Tools  
-
-- **Operating Systems & Scripting:**  
-  - Linux (command-line basics, shell scripting: loops, if-statements, functions)  
-  - File & directory management via CLI  
-- **Systems & Virtualization:**  
-  - vSphere, IBM iSeries / AS/400  
-- **Security & Access Management:**  
-  - CyberArk  
-- **Monitoring & Infrastructure:**  
-  - SolarWinds  
-- **Cloud & AI:**  
-  - Microsoft Azure (AI-900 Certified)  
-  - Google Colab  
-- **Programming & Automation:**  
-  - Python (ML, data analysis, automation)  
-  - PHP (Web development basics)  
 
 ---
 
-## 📚 What I’m Working On  
+🔧 Core Linux & SysAdmin Skills
 
-- ⚙️ Learning **Linux shell scripting** for system automation  
-- ☁️ Expanding knowledge in **Cloud computing & AI services**  
+✅ Linux OS & Shell Scripting: Ubuntu CLI, file & directory management, Bash scripting (loops, functions, variables)
 
----
+✅ Web & Server Management: Nginx web server deployment, service configuration, system monitoring
 
-## 🎯 Goals  
+✅ System Automation & Monitoring: Cron jobs, log management, process control, resource optimization
 
-- Grow into a **Cloud & AI-focused System Administrator**  
-- Build expertise in **Linux systems and automation scripting**  
-- Contribute to **open-source Cloud, AI, and SysAdmin projects**  
-- Strengthen skills in **Azure, shell scripting, and applied machine learning**  
+✅ Networking Basics: ping, ip, netstat, host, connectivity troubleshooting
 
----
+✅ Security & Access Management: User/group management, permissions, ownership
 
-## 🏅 Certifications  
 
-- ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)**  
-- ✅ Microsoft Certified: **Office Specialist: Excel Associate (Excel 2019)**  
-- ✅ Udemy Certified: **Cloud Computing Fundamentals**  
-*(More Cloud, Linux & AI certifications coming soon)*  
 
 ---
 
-## 📌 Featured Projects  
+📚 Current Learning & Projects
 
-- 🛒 [`grocery-store`](https://github.com/ashwinsajii/grocery-store) → Grocery store web app (PHP + MySQL + Admin panel)  
-- 🤖 [`ml-projects`](https://github.com/AshwinSajii/traffic-situation-detection) → Machine learning experiments (Python, Colab notebooks)
+🐧 Linux-Nginx-deployment → Hosted a mini HTML website on Ubuntu using Nginx, gaining hands-on experience with Linux server configuration, file placement, and service management
+
+⚙️ Developing automation scripts with Bash for routine Linux system tasks
+
+☁️ Expanding knowledge in Cloud computing (Azure) & AI services
+
+
 
 ---
 
-## 📫 Let’s Connect  
+🎯 Career Goals
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashwinsajii-181717?style=for-the-badge&logo=github)](https://github.com/ashwinsajii)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashwinsajii)
+Grow into a Linux/System Administration & Cloud Infrastructure role
+
+Build deep expertise in Linux systems, automation scripting, and server management
+
+Contribute to open-source SysAdmin and Cloud projects
+
+
+
+---
+
+🏅 Certifications
+
+✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+✅ Microsoft Certified: Office Specialist: Excel Associate (Excel 2019)
+
+✅ Udemy Certified: Cloud Computing Fundamentals
+(More Linux, Cloud & AI certifications coming soon)
+
+
+
+---
+
+📌 Featured Projects
+
+🐧 Linux-Nginx-deployment → Hosted a mini HTML website on Ubuntu using Nginx
+
+🛒 grocery-store → Grocery store web app (PHP + MySQL + Admin panel)
+
+🤖 ml-projects → Machine learning experiments (Python, Colab notebooks)
+
+
+
+---
+
+📫 Let’s Connect
+
+
+
+

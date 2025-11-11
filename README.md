@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHPvcsBbkwivA/profile-displaybackgroundimage-shrink_350_1400/B56ZpqRRgwJsAY-/0/1762719507000?e=1764201600&v=beta&t=wPUKRDQIUaZeSpUao8FIs6XZukrz7hXrzJmIrJWsFOA" width="1000px" alt="Thank you for visiting my profile!"/>
+</p>
 # 👋 Hi, I’m **Ashwin Saji**
 💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS (1.4+ yrs)**  
 🐧 Passionate about **Linux administration**, **automation**, and **cloud technologies**  
@@ -95,6 +97,4 @@ My journey revolves around **hands-on system administration**, **bash scripting*
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/RAcO4qY.png" width="600px" alt="Thank you for visiting my profile!"/>
-</p>
+

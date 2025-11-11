@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/TcNQ0jD.png" alt="Ashwin Saji - Linux System Administrator Banner" width="100%" />
-</p>
 
 # 👋 Hi, I’m **Ashwin Saji**
 💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS (1.4+ yrs)**  
@@ -88,12 +84,8 @@ My journey revolves around **hands-on system administration**, **bash scripting*
     <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:ashwin.saji@example.com">
-    <img src="https://img.shields.io/badge/Email-ashwin.saji%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-ashwinsaji017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/lh0Dq4M.png" width="600px" alt="Thank you for visiting my profile!"/>
-</p>

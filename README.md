@@ -83,7 +83,7 @@ My journey revolves around **hands-on system administration**, **bash scripting*
   <a href="https://www.linkedin.com/in/ashwin-saji">
     <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ashwin.saji@example.com">
+  <a href="mailto:ashwinsaji017@gmail.com">
     <img src="https://img.shields.io/badge/Email-ashwinsaji017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

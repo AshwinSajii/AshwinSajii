@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/3hQkVpl.png" alt="Ashwin Saji - Linux System Administrator Banner" width="100%" />
-</p>
 
 # 👋 Hi, I’m **Ashwin Saji**
 💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS (1.4+ yrs)**  

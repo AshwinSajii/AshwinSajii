@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/3hQkVpl.png" alt="Ashwin Saji - Linux System Administrator Banner" width="100%" />
+</p>
 
 # 👋 Hi, I’m **Ashwin Saji**
 💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS (1.4+ yrs)**  
@@ -80,12 +83,21 @@ My journey revolves around **hands-on system administration**, **bash scripting*
   <a href="https://github.com/AshwinSajii">
     <img src="https://img.shields.io/badge/GitHub-ashwinsajii-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashwin-saji">
+  <a href="https://www.linkedin.com/in/ashwinsajii">
     <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:ashwinsaji017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashwinsaji017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-ashwinsaji017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
+
+### ⚡ Fun Fact  
+> “The Linux terminal is not just a tool — it’s my playground for creativity, control, and automation.”
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/RAcO4qY.png" width="600px" alt="Thank you for visiting my profile!"/>
+</p>

@@ -1,63 +1,99 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/TcNQ0jD.png" alt="Ashwin Saji - Linux System Administrator Banner" width="100%" />
+</p>
+
 # 👋 Hi, I’m **Ashwin Saji**
-
-💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS** (1.40+ years)  
-🐧 Building hands-on expertise in **Linux administration**, **shell scripting**, and **server automation**  
-☁️ **Cloud & AI Enthusiast** — Microsoft Certified: **Azure AI Fundamentals (AI-900)**  
-🤖 Exploring **Python**, **automation**, and **machine learning** through real-world projects  
-
----
-
-## 🔧 Core Linux & SysAdmin Skills
-
-✅ **Linux OS & Shell Scripting:** Ubuntu CLI, file & directory management, Bash scripting (loops, functions, automation tasks)  
-✅ **Web & Server Management:** Nginx deployment, service configuration, log management, system monitoring  
-✅ **Automation & Optimization:** Cron jobs, resource management, uptime optimization, script-based maintenance  
-✅ **Networking Basics:** IP configuration, `ping`, `netstat`, `host`, basic troubleshooting  
-✅ **Security & Access Control:** User/group management, file permissions, secure authentication  
+💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS (1.4+ yrs)**  
+🐧 Passionate about **Linux administration**, **automation**, and **cloud technologies**  
+☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
+🤖 Exploring **Python scripting** & **machine learning** for intelligent system automation  
 
 ---
 
-## 📚 Current Learning & Projects
+## 🧩 **About Me**
+I’m a Linux and DevOps enthusiast focused on building automation and scalability in system environments.  
+My journey revolves around **hands-on system administration**, **bash scripting**, and exploring the power of **open-source tools** to improve server reliability and efficiency.
 
-🐧 **Linux-Nginx-Deployment** → Hosted a mini HTML website on Ubuntu using Nginx, configuring services and permissions manually  
-⚙️ **Automation Scripts (Bash)** → Automating routine system monitoring & log rotation tasks  
-☁️ **Flask Feedback App (Python)** → Built a feedback web app on Flask from scratch using WSL2 and GitHub SSH workflows  
-🧠 Expanding into **Cloud Computing (Azure)** and **AI Integration** with real-world use cases  
-
----
-
-## 🎯 Career Goals
-
-🚀 Grow into a **Linux/System Administration** or **Cloud Infrastructure Engineer** role  
-🔁 Build deep expertise in **Linux systems**, **automation scripting**, and **DevOps tools**  
-🤝 Contribute to open-source and community SysAdmin projects  
+> _"I love turning a plain terminal into something powerful — from serving web apps to automating systems."_  
 
 ---
 
-## 🏅 Certifications
+## 🔧 **Core Linux & SysAdmin Skills**
 
-✅ **Microsoft Certified:** Azure AI Fundamentals (AI-900)  
-✅ **Microsoft Certified:** Office Specialist — Excel Associate (Excel 2019)  
-✅ **Udemy Certified:** Cloud Computing Fundamentals  
-📘 *(More Linux, Cloud & AI certifications in progress)*  
-
----
-
-## 📌 Featured Projects
-
-🐧 [**Linux-Nginx-Deployment**](#) → Hosted a static website using Nginx on Ubuntu server  
-🌐 [**Flask-Feedback-App**](https://github.com/AshwinSajii/flask-feedback-app) → Simple web app for collecting user feedback using Flask  
-🛒 [**Grocery-Store-App**](#) → Grocery store web app (PHP + MySQL + Admin Panel)  
-🤖 [**ML-Projects**](#) → Machine Learning experiments using Python & Google Colab  
+| Area | Skills |
+|------|--------|
+| 🐧 **Linux OS & Shell Scripting** | Ubuntu CLI, File/Directory Management, Bash Automation, Loops & Functions |
+| ⚙️ **Web & Server Management** | Nginx Deployment, Service Configuration, Log Management, System Monitoring |
+| 🔁 **Automation & Optimization** | Cron Jobs, Resource Management, Script-based Maintenance |
+| 🌐 **Networking Basics** | IP Config, `ping`, `netstat`, `host`, Network Troubleshooting |
+| 🔒 **Security & Access Control** | User/Group Management, Permissions, Secure Authentication |
 
 ---
 
-## 📫 Let’s Connect
+## 📚 **Learning & Projects**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashwinsajii-181717?style=for-the-badge&logo=github)](https://github.com/ashwinsajii)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashwin-saji)
+| Project | Description |
+|----------|--------------|
+| 🐧 [**Linux-Nginx-Deployment**](#) | Hosted a mini HTML website on Ubuntu using Nginx; configured services & permissions manually |
+| ⚙️ [**Automation Scripts (Bash)**](#) | Automated system monitoring, log rotation, and resource utilization tracking |
+| 🌐 [**Flask-Feedback-App**](https://github.com/AshwinSajii/flask-feedback-app) | Feedback web app built with Flask; containerized using Docker & managed via Docker Compose |
+| ☁️ [**Cloud-AI Projects**](#) | Exploring Azure services & integrating AI for smart monitoring and automation |
+| 🤖 [**ML-Projects**](#) | Experimenting with Python + Google Colab for predictive analytics |
 
 ---
 
-### 💡 *Fun fact:*  
-“I love turning a plain terminal into something powerful — from serving web apps to automating systems.”
+## ☁️ **Certifications**
+
+| Certification | Issuer |
+|----------------|--------|
+| ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)** | Microsoft |
+| ✅ Microsoft Office Specialist: **Excel Associate (2019)** | Microsoft |
+| ✅ **Cloud Computing Fundamentals** | Udemy |
+| 📘 *(More Linux, Cloud & AI certifications in progress)* | — |
+
+---
+
+## 🎯 **Career Goals**
+🚀 Grow into a **Linux/System Administrator** or **Cloud Infrastructure Engineer** role  
+🔁 Build deep expertise in **automation scripting** and **DevOps pipelines**  
+🤝 Contribute to **open-source and community SysAdmin projects**
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,python,git,github,azure,vscode,html,css" />
+</p>
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwinSajii&show_icons=true&theme=tokyonight" alt="Ashwin's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSajii&layout=compact&theme=tokyonight" alt="Ashwin's Top Languages" height="150"/>
+</p>
+
+---
+
+## 🌍 **Connect With Me**
+
+<p align="center">
+  <a href="https://github.com/AshwinSajii">
+    <img src="https://img.shields.io/badge/GitHub-ashwinsajii-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashwin-saji">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ashwin.saji@example.com">
+    <img src="https://img.shields.io/badge/Email-ashwin.saji%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/lh0Dq4M.png" width="600px" alt="Thank you for visiting my profile!"/>
+</p>

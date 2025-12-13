@@ -1,100 +1,147 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHPvcsBbkwivA/profile-displaybackgroundimage-shrink_350_1400/B56ZpqRRgwJsAY-/0/1762719507000?e=1764201600&v=beta&t=wPUKRDQIUaZeSpUao8FIs6XZukrz7hXrzJmIrJWsFOA" width="1000px" alt="Thank you for visiting my profile!"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHPvcsBbkwivA/profile-displaybackgroundimage-shrink_350_1400/B56ZpqRRgwJsAY-/0/1762719507000?e=1764201600&v=beta&t=wPUKRDQIUaZeSpUao8FIs6XZukrz7hXrzJmIrJWsFOA" width="1000px" alt="Welcome banner"/>
 </p>
+
 # 👋 Hi, I’m **Ashwin Saji**
-💻 **Aspiring Linux System Administrator** | System Administrator @ **TCS (1.4+ yrs)**  
-🐧 Passionate about **Linux administration**, **automation**, and **cloud technologies**  
-☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
-🤖 Exploring **Python scripting** & **machine learning** for intelligent system automation  
+
+💻 **Linux / CloudOps Engineer** | System Administrator @ **TCS (1.4+ years)**
+🐧 Strong focus on **Linux systems**, **cloud infrastructure**, and **DevOps operations**
+☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+⚙️ Hands-on with **Docker, CI/CD, infrastructure automation, and cloud fundamentals**
 
 ---
 
-## 🧩 **About Me**
-I’m a Linux and DevOps enthusiast focused on building automation and scalability in system environments.  
-My journey revolves around **hands-on system administration**, **bash scripting**, and exploring the power of **open-source tools** to improve server reliability and efficiency.
+## 🧠 About Me
 
-> _"I love turning a plain terminal into something powerful — from serving web apps to automating systems."_  
+I’m a Linux and CloudOps-focused engineer with practical experience working close to operating systems, infrastructure, and automation. My primary interest lies in **how applications run in production**, not in building application features.
 
----
+I focus on:
 
-## 🔧 **Core Linux & SysAdmin Skills**
+* Linux system administration
+* Infrastructure automation
+* Containerization and CI workflows
+* Cloud-ready architecture
 
-| Area | Skills |
-|------|--------|
-| 🐧 **Linux OS & Shell Scripting** | Ubuntu CLI, File/Directory Management, Bash Automation, Loops & Functions |
-| ⚙️ **Web & Server Management** | Nginx Deployment, Service Configuration, Log Management, System Monitoring |
-| 🔁 **Automation & Optimization** | Cron Jobs, Resource Management, Script-based Maintenance |
-| 🌐 **Networking Basics** | IP Config, `ping`, `netstat`, `host`, Network Troubleshooting |
-| 🔒 **Security & Access Control** | User/Group Management, Permissions, Secure Authentication |
+> *“I care less about writing apps and more about making systems reliable, repeatable, and observable.”*
 
 ---
 
-## 📚 **Learning & Projects**
+## 🏗️ **Primary Project (DevOps Focus)**
 
-| Project | Description |
-|----------|--------------|
-| 🐧 [**Linux-Nginx-Deployment**](#) | Hosted a mini HTML website on Ubuntu using Nginx; configured services & permissions manually |
-| ⚙️ [**Automation Scripts (Bash)**](#) | Automated system monitoring, log rotation, and resource utilization tracking |
-| 🌐 [**Flask-Feedback-App**](https://github.com/AshwinSajii/flask-feedback-app) | Feedback web app built with Flask; containerized using Docker & managed via Docker Compose |
-| ☁️ [**Cloud-AI Projects**](#) | Exploring Azure services & integrating AI for smart monitoring and automation |
-| 🤖 [**ML-Projects**](#) | Experimenting with Python + Google Colab for predictive analytics |
+### 🌩️ **CloudOps Infrastructure Project**
 
----
+🔗 [https://github.com/AshwinSajii/cloudops-infrastructure](https://github.com/AshwinSajii/cloudops-infrastructure)
 
-## ☁️ **Certifications**
+This is my **main DevOps-focused project**. It is designed to demonstrate how infrastructure evolves from local systems to cloud-ready deployments.
 
-| Certification | Issuer |
-|----------------|--------|
-| ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)** | Microsoft |
-| ✅ Microsoft Office Specialist: **Excel Associate (2019)** | Microsoft |
-| ✅ **Cloud Computing Fundamentals** | Udemy |
-| 📘 *(More Linux, Cloud & AI certifications in progress)* | — |
+**Key focus areas:**
+
+* Linux server configuration
+* Docker-based application runtime
+* CI pipelines for validation
+* Cloud deployment foundations
+* Infrastructure-first thinking (not app development)
+
+This repository represents my **core DevOps learning and practice track**.
 
 ---
 
-## 🎯 **Career Goals**
-🚀 Grow into a **Linux/System Administrator** or **Cloud Infrastructure Engineer** role  
-🔁 Build deep expertise in **automation scripting** and **DevOps pipelines**  
-🤝 Contribute to **open-source and community SysAdmin projects**
+## 🧰 Core Linux & CloudOps Skills
+
+| Area                               | Skills                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------- |
+| 🐧 **Linux Administration**        | Ubuntu, CLI, filesystem hierarchy, permissions, users & groups            |
+| 📜 **Automation & Scripting**      | Bash scripting, cron jobs, system maintenance automation                  |
+| ⚙️ **Server & Process Management** | Services, logs, process monitoring, troubleshooting                       |
+| 🌐 **Networking Basics**           | Ports, IP tools (`ping`, `ss`, `netstat`, `curl`), connectivity debugging |
+| 🔐 **Security Fundamentals**       | User access control, file permissions, secure service setup               |
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## ⚙️ DevOps & Infrastructure Tooling
+
+| Category                   | Tools / Concepts                                   |
+| -------------------------- | -------------------------------------------------- |
+| 🐳 **Containerization**    | Docker, Dockerfiles, container lifecycle           |
+| 🔄 **CI/CD Basics**        | GitHub Actions, automated testing, build pipelines |
+| 🗂️ **Version Control**    | Git (CLI-driven workflow), GitHub                  |
+| 🧪 **Validation & Health** | Health checks, service readiness, basic testing    |
+| ☁️ **Cloud Fundamentals**  | Azure basics, VM concepts, networking, IAM         |
+
+---
+
+## 📚 Other Projects (Supporting Work)
+
+These repositories support my CloudOps learning journey and demonstrate specific tools or concepts. They are **intentionally smaller in scope** and are not positioned as my primary DevOps project.
+
+| Project                          | Focus                                                                                                                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🐳 **Flask Feedback App (Mini)** | Dockerized Flask app with Gunicorn, health checks, SQLite, pytest, and a CI pipeline. Used to practice containerization, debugging runtime issues, and CI fundamentals. |
+| 🐧 **Linux + Nginx Deployment**  | Manual deployment of a static site on Ubuntu using Nginx, including service management, permissions, and log inspection.                                                |
+| ⚙️ **Bash Automation Scripts**   | Shell scripts for system monitoring, cleanup, and routine Linux administration tasks.                                                                                   |
+| ☁️ **Azure Fundamentals Labs**   | Hands-on labs aligned with Azure fundamentals, focusing on cloud concepts rather than application development.                                                          |
+
+These projects complement my main **cloudops-infrastructure** repository by covering tooling and operational fundamentals.
+
+--------|---------|
+| 🐳 **Flask Feedback App (Mini)** | A small Dockerized app used only to demonstrate containerization and CI — *not* a main development project |
+| 🐧 **Linux + Nginx Deployment** | Manual server setup and web service deployment on Ubuntu |
+| ⚙️ **Bash Automation Scripts** | Scripts for monitoring, cleanup, and operational tasks |
+
+---
+
+## ☁️ Certifications
+
+| Certification                                              | Issuer    |
+| ---------------------------------------------------------- | --------- |
+| ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**  | Microsoft |
+| ✅ **Microsoft Office Specialist – Excel Associate (2019)** | Microsoft |
+| 📘 Cloud & Linux certifications in progress                | —         |
+
+---
+
+## 🎯 Career Direction
+
+* Linux / System Administration
+* Cloud Operations & Infrastructure Engineering
+* DevOps foundations (CI, containers, automation)
+* Production reliability over feature development
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,python,git,github,azure,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,python,git,github,azure,vscode" />
 </p>
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinSajii&show_icons=true&theme=tokyonight" alt="Ashwin's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSajii&layout=compact&theme=tokyonight" alt="Ashwin's Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwinSajii&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSajii&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-## 🌍 **Connect With Me**
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://github.com/AshwinSajii">
-    <img src="https://img.shields.io/badge/GitHub-ashwinsajii-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-AshwinSajii-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/ashwinsajii">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Saji-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ashwinsaji017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashwinsaji017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-ashwinsaji017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact  
-> “The Linux terminal is not just a tool — it’s my playground for creativity, control, and automation.”
+### ⚡ Focus Statement
 
----
-
-
+> “My priority is infrastructure reliability, automation, and clean operational workflows — not application feature development.”

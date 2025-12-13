@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHPvcsBbkwivA/profile-displaybackgroundimage-shrink_350_1400/B56ZpqRRgwJsAY-/0/1762719507000?e=1764201600&v=beta&t=wPUKRDQIUaZeSpUao8FIs6XZukrz7hXrzJmIrJWsFOA" width="1000px" alt="Welcome banner"/>
+  <img src="https://raw.githubusercontent.com/AshwinSajii/cloudops-infrastructure/main/assets/banner.png" width="100%" alt="Ashwin Saji | CloudOps & DevOps"/>
 </p>
 
 # 👋 Hi, I’m **Ashwin Saji**
@@ -123,6 +123,18 @@ These projects complement my main **cloudops-infrastructure** repository by cove
   <img src="https://github-readme-stats.vercel.app/api?username=AshwinSajii&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSajii&layout=compact&theme=tokyonight" height="150" />
 </p>
+
+### ⏱️ About Recent Activity (Last 3 Months)
+
+GitHub does **not** officially provide a widget that limits stats to the *last 3 months only*. Most profile cards show **lifetime repository activity**.
+
+To highlight recent work, I focus on:
+
+* Consistent commits in **cloudops-infrastructure**
+* Recent Docker, CI, and Linux-focused repositories
+* Clear commit history and meaningful messages
+
+> Recruiters typically review **recent repositories and commit timelines**, not raw stat counters.
 
 ---
 

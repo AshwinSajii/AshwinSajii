@@ -8,9 +8,9 @@ Actively building skills and projects aligned with **SRE, Linux Engineer, Junior
 ## 💼 Current Role
 **System Administrator | Tata Consultancy Services**
 
-- Production Linux & infrastructure operations  
+- Production Linux, iBMI & infrastructure operations  
 - Monitoring, alert triage, and incident response  
-- Manual server patching, service validation, and troubleshooting  
+- Manual server patch installation & Reboots, service validation, and troubleshooting  
 - Cloud observability and SLA-focused support  
 
 ---
